@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+*
+{
+margin:0px;
+padding:0px;
+}
+#wrap
+{
+ border:0px solid black;
+ height:500px;
+ width:780px;
+ margin:auto;
+}
+
+#title
+{
+color:orange;
+font-size:18px;
+font-weight:bold;
+padding:10px 0px 25px 0px;
+}
+#content
+{
+text-align:justify;
+padding:0px 0px 0px 0px;
+}
+#third
+{
+float:left;
+width:990px;
+height:0px;
+margin:0px;
+}
+
